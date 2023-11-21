@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(240, 207, 183) ;
+    color: saddlebrown;
+    text-align: center;
+padding: 2%;
+font-family: 'Playpen Sans', cursive;
+}
+
+.le{
+    margin-left: -30%;
+    padding: 3%;
+}
+
+.re{
+    margin-left: 30%;
+    margin-top: -63.7%;
+    padding: 3%;
+}
+
+header{
+    
+    background-color:saddlebrown;
+    padding-left: 0%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    align-items: center;
+    
+    text-decoration: none;
+   
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 3%;
+   
+    
+}

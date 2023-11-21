@@ -1,0 +1,37 @@
+/* h1{
+    color: rgb(95, 115, 59);
+    font-size: 650%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+} */
+
+nav{
+    background-color: saddlebrown;
+    color: white;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+font-family: 'Satisfy', cursive;
+/* font-size: 228%; */
+/* font-weight: 300; */
+}
+.intro{
+    color: saddlebrown;
+    text-align: center;
+    background-color: rgb(240, 207, 183);
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+img{
+    padding: 3%;
+}
+p{
+    font-size: 150%;
+}
+
+body{
+   
+    display: flex;
+    
+}
